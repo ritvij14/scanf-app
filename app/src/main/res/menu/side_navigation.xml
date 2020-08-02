@@ -9,8 +9,8 @@
             android:id="@+id/nav_recent_files"
             android:title="@string/recent_files" />
         <item
-            android:id="@+id/nav_document_viewer"
-            android:title="@string/document_viewer" />
+            android:id="@+id/nav_document_scanner"
+            android:title="@string/document_scanner" />
 
         <item
             android:id="@+id/nav_settings"
